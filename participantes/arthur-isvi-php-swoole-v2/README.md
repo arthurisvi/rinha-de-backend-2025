@@ -13,4 +13,4 @@
 - **Orquestração**: **Docker-compose**
 - **Load Balancer**: **Nginx**
 
-#### Mais detalhes da implementação no [repositório](https://github.com/arthurisvi/rinha-backend-2025/tree/swoole-v2)
+#### Mais detalhes da implementação no [repositório](https://github.com/arthurisvi/rinha-backend-2025/tree/swoole-circuit-breaker-version)
